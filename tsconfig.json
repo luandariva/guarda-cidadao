@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
+=======
+﻿{
+>>>>>>> 6f51858cfaf39ec5ad390b82c742ca0350dbe786
   "compilerOptions": {
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
@@ -19,7 +23,11 @@
       }
     ],
     "paths": {
+<<<<<<< HEAD
       "@/*": ["./*"],
+=======
+      "@/*": ["./*"]
+>>>>>>> 6f51858cfaf39ec5ad390b82c742ca0350dbe786
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
